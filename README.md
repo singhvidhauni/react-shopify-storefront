@@ -83,13 +83,33 @@ This section has the third Tab titled API Credentials, which has a Storefront Ac
 6.  npm or yarn by typing **yarn add @chakra-ui/react @emotion/react @emotion/styled framer-motion**
 7.  install the react-icons, **yarn add react-icons**
 8.  now add the react-router-dom for routing **yarn add react-router-dom**
-9.  
+9.  Please refer to the following link (https://shopify.github.io/js-buy-sdk/) for **the Storefront API **
+
+
+### Application screenshots
+1. Home Page with Hero component.
+
+![image](https://user-images.githubusercontent.com/4363033/194614938-3059a019-1980-45da-8bb3-2e1bb1511f95.png)
+
+2.  ImageWithText Component, the image & Text can be reversed 
+
+![image](https://user-images.githubusercontent.com/4363033/194615306-0cddabe4-1e6f-46c3-b015-c4e2a9fcb8bd.png)
+
+3.  Product Gallery
+
+![image](https://user-images.githubusercontent.com/4363033/194615430-6a13934d-afe2-43a7-ae4a-ba5d822c75d5.png)
+
+4.  The Footer Component 
+
+![image](https://user-images.githubusercontent.com/4363033/194615621-a9361dd5-f46a-48d4-a339-21050653c313.png)
+
+5.  The ProductPage
+
+![image](https://user-images.githubusercontent.com/4363033/194615747-66c02fd1-7186-41a2-9be8-500886c544ab.png)
 
 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
