@@ -50,6 +50,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/c
 
 4.  Now you can open a store by clicking the add store button on the right hand side. Select a Development store option and continue filling all informations.
 
+5.  Once the store is created login to the store by clicking the login link at the right side of store name.
+
+![image](https://user-images.githubusercontent.com/4363033/194603123-7ec1cbca-c75c-45c5-8534-0ada4cdbcc18.png)
 
 
 
