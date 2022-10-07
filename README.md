@@ -54,6 +54,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/c
 
 ![image](https://user-images.githubusercontent.com/4363033/194603123-7ec1cbca-c75c-45c5-8534-0ada4cdbcc18.png)
 
+6.  Within the store login, click the apps on left navigation to create private apps by filling required details. Please note down the **Storefront Access Token.**
+
 
 
 
