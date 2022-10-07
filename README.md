@@ -56,6 +56,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/c
 
 6.  Within the store login, click the apps on left navigation to create private apps by filling required details. Please note down the **Storefront Access Token.**
 
+![image](https://user-images.githubusercontent.com/4363033/194604425-6c8efdcc-5cfe-443f-9706-c0b1a75767b2.png)
+
+This section has the third Tab titled API Credentials, which has a Storefront Access Token given below on scroll at little bit. 
+
+![image](https://user-images.githubusercontent.com/4363033/194605285-cdf0a420-a617-4059-b971-a1b968b45b7c.png)
+
+
 
 
 
