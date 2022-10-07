@@ -67,11 +67,25 @@ This section has the third Tab titled API Credentials, which has a Storefront Ac
 ![image](https://user-images.githubusercontent.com/4363033/194606119-0b82a570-b572-4df0-b49c-0b8265e0968c.png)
 
 
+### Configuring the Development environemnt.
+1.  setup a react app on your machine (npx create-react-app shopify-react-store )
+2.  Now open the project folder in VS Code and visit the few packages as specified.
+3.  Visit this Page https://shopify.dev/custom-storefronts/tools/js-buy and click the View the JS BUY SDK Link.
+
+![image](https://user-images.githubusercontent.com/4363033/194612499-0eae1763-b3da-4383-ad83-66c610418b4a.png)
+
+4.  Now install the following package $ yarn add shopify-buy / $ npm install shopify-buy.
+5.  Visit the following page to install the Chakra-UI related packages.
+    https://chakra-ui.com/getting-started
+    
+    ![image](https://user-images.githubusercontent.com/4363033/194613497-e22b730f-18e0-43b1-a8b1-1ac624263d0f.png)
+
+6.  npm or yarn by typing **yarn add @chakra-ui/react @emotion/react @emotion/styled framer-motion**
+7.  install the react-icons, **yarn add react-icons**
+8.  now add the react-router-dom for routing **yarn add react-router-dom**
+9.  
 
 
-
-
-### Making a Progressive Web App
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
