@@ -62,11 +62,14 @@ This section has the third Tab titled API Credentials, which has a Storefront Ac
 
 ![image](https://user-images.githubusercontent.com/4363033/194605285-cdf0a420-a617-4059-b971-a1b968b45b7c.png)
 
+7. Note down the Storefront Access Token & the domain name of your store ending with myshopify.com for e.g. as given below.
+
+![image](https://user-images.githubusercontent.com/4363033/194606119-0b82a570-b572-4df0-b49c-0b8265e0968c.png)
 
 
 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
 
 ### Making a Progressive Web App
 
