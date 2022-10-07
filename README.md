@@ -107,13 +107,30 @@ This section has the third Tab titled API Credentials, which has a Storefront Ac
 
 ![image](https://user-images.githubusercontent.com/4363033/194615747-66c02fd1-7186-41a2-9be8-500886c544ab.png)
 
+7.  ProductPage with Cart Component. 
+
+![image](https://user-images.githubusercontent.com/4363033/194615993-c2ecc1b9-094f-4624-aee3-7a4b3a95d720.png)
+
+8.  NavMenu component 
+
+![image](https://user-images.githubusercontent.com/4363033/194616150-0d967d0c-3ff4-48aa-b8af-0d9a39ba30d5.png)
+
+9.  Checkout Page
+
+![image](https://user-images.githubusercontent.com/4363033/194616404-8ad03fde-a546-4c17-9256-fac0aabd051c.png)
 
 
+### Responsive Screen Layouts
+IPhone resolution
+![image](https://user-images.githubusercontent.com/4363033/194616636-ed634a2f-41a7-497b-847d-bd98618459cf.png)
+
+![image](https://user-images.githubusercontent.com/4363033/194616966-46bf5324-4f92-429d-97ff-accf76b6fedd.png)
+
+ProductPage Detail Page
+
+![image](https://user-images.githubusercontent.com/4363033/194617113-64634b4f-9d64-4c2c-82bf-9308a19a8028.png)
 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
