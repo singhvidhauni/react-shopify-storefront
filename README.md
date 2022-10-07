@@ -28,7 +28,9 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 
 
-### Code Splitting
+### shopify.com
+![image](https://user-images.githubusercontent.com/4363033/194567482-bc2a8d25-dbbd-417f-b126-f0e3cf8bbdd8.png)
+
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
