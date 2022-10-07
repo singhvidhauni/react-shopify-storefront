@@ -121,7 +121,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/c
 
 
 ### Responsive Screen Layouts
+
 IPhone resolution
+
 ![image](https://user-images.githubusercontent.com/4363033/194616636-ed634a2f-41a7-497b-847d-bd98618459cf.png)
 
 ![image](https://user-images.githubusercontent.com/4363033/194616966-46bf5324-4f92-429d-97ff-accf76b6fedd.png)
