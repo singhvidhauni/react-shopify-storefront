@@ -44,7 +44,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/c
 
 ![image](https://user-images.githubusercontent.com/4363033/194599498-8c1da36b-55d6-4566-90a0-665764518b15.png)
 
-3.  
+3.  Here is your Shopify Partners Dashboard with Business Name at RightTop.
+
+![image](https://user-images.githubusercontent.com/4363033/194601721-2a00bf55-d3f6-423b-826b-5e8c1e1c908f.png)
+
+4.  Now you can open a store by clicking the add store button on the right hand side. Select a Development store option and continue filling all informations.
+
+
+
+
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
