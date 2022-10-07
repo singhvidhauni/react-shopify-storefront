@@ -58,11 +58,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/c
 
 ![image](https://user-images.githubusercontent.com/4363033/194604425-6c8efdcc-5cfe-443f-9706-c0b1a75767b2.png)
 
-This section has the third Tab titled API Credentials, which has a Storefront Access Token given below on scroll at little bit. 
+8.  This section has the third Tab titled API Credentials, which has a Storefront Access Token given below on scroll at little bit. 
 
 ![image](https://user-images.githubusercontent.com/4363033/194605285-cdf0a420-a617-4059-b971-a1b968b45b7c.png)
 
-7. Note down the Storefront Access Token & the domain name of your store ending with myshopify.com for e.g. as given below.
+9.  Note down the Storefront Access Token & the domain name of your store ending with myshopify.com for e.g. as given below.
 
 ![image](https://user-images.githubusercontent.com/4363033/194606119-0b82a570-b572-4df0-b49c-0b8265e0968c.png)
 
@@ -129,6 +129,8 @@ IPhone resolution
 ProductPage Detail Page
 
 ![image](https://user-images.githubusercontent.com/4363033/194617113-64634b4f-9d64-4c2c-82bf-9308a19a8028.png)
+
+![image](https://user-images.githubusercontent.com/4363033/194617498-66de8a45-2bd7-49d5-8539-a43a4ee3a0b2.png)
 
 
 
