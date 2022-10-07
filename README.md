@@ -37,9 +37,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/c
 
 ### Steps to setup Shopify
 1.  Visit the Shopify Partners Program https://www.shopify.com/in/partners and Join it.
+
 ![image](https://user-images.githubusercontent.com/4363033/194598798-670479c8-7bd4-41f5-9d9a-2cd5406447e6.png)
 
 2.  login to the partners account 
+
 ![image](https://user-images.githubusercontent.com/4363033/194599498-8c1da36b-55d6-4566-90a0-665764518b15.png)
 
 3.  
